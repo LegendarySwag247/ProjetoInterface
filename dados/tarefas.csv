@@ -1,0 +1,12 @@
+Id;Lista;Titulo;Tipo;Concluido;Horario_e_data
+1;estudos;matematica;COMPROMISSO;n;12:30-23/10/2024
+1;tarefas;lavar casa;COMPROMISSO;s;12:30-20/20/2024
+1;estudos;quimica;COMPROMISSO;n;13:30-10/10/2025
+0;trabalho;reuniao;ROTINA;n;-
+0;rotina;acordar;ROTINA;n;-
+1;tarefas;lavar roupa;ROTINA;n;-
+1;tarefas;Arrumar a cama;ROTINA;s;-
+1;ferias;picina;COMPROMISSO;n;13:30-25/12/2025
+1;ferias;PaintBall;COMPROMISSO;n;15:30-10/12/2025
+0;Folga;tirar folga;COMPROMISSO;s;12:30-12/06/2024
+0;Folga;Ir na praia;COMPROMISSO;s;01:20-12/12/2024
